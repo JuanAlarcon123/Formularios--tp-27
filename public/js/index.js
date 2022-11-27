@@ -8,7 +8,7 @@ window.onload = function(){
     
     subtitulo.innerHTML += 'INVITADO';
     
-        
+        //esto me transforma el subtitulo
     subtitulo.style.textTransform = 'uppercase';
     
     fondo.classList.add('fondo');

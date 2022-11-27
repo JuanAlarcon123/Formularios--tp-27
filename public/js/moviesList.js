@@ -4,7 +4,7 @@ window.onload = function(){
  
     body.classList.add('fondoMoviesList');
     
-    console.log(body);
+    /* console.log(body); */
     moviesListTitulo.innerHTML = 'LISTADO DE PELÍCULAS';
     moviesListTitulo.style.color ='white';
     moviesListTitulo.style.backgroundColor = 'teal';
